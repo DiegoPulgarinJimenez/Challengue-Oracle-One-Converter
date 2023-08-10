@@ -1,2 +1,2 @@
 # Challengue-Oracle-One-Converter
-Backend's challengue builded for the Alura-Oracle's One program.
+Backend challengue built for the Alura-Oracle's One program. This version of the program converts currencies between COP, Euro, USD, Pounds, Japanese Yen and South Korean Won.
