@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"converter_Model","l":"ConverterCurrency"},{"p":"converter_Model","l":"ConverterMainLaunch"},{"p":"converter_Model","l":"ConverterTemperature"},{"p":"org.eclipse.wb.swt","l":"SWTResourceManager"}];updateSearchResults();
